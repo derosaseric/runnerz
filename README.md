@@ -2,6 +2,10 @@
 
 runnerz is a web application designed to manage and track running activities. It provides a RESTful API to create, read, update, and delete run records.
 
+## Work in Progress
+
+This project is currently under active development. Features and functionality may change as the project evolves.
+
 ## Table of Contents
 
 - [Features](#features)
